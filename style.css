@@ -1,0 +1,41 @@
+h1 {
+  font-size: 6em;
+  color: #000000;
+}
+
+h1, h2 {
+  margin-left: 15vw;
+  margin-right: 5vw;
+}
+
+body {
+  background: #89C0F9;
+}
+
+p {
+  margin-left: 15vw;
+  margin-right: 5vw;
+}
+
+iframe {
+  margin-left: 15vw;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+#sidebar {
+  z-index: -1;
+  top: 0px;
+  left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width: 10vw;
+  height: 100vh;
+  position: fixed;
+  background-image: url("side.jpg");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+}
